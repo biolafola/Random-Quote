@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://biolafola.github.io/Random-Quote",
+  "homepage": "https://biolafola.github.io/Random-Quote",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
